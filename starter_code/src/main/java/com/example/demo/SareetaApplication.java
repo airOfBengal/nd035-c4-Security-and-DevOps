@@ -11,6 +11,7 @@ import org.springframework.data.jpa.repository.config.EnableJpaRepositories;
 public class SareetaApplication {
 
 	public static void main(String[] args) {
+		// spring apps starts here
 		SpringApplication.run(SareetaApplication.class, args);
 	}
 
